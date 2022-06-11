@@ -1,9 +1,5 @@
 # Version 3, ahora es personal
 
-import soko
-import gamelib
-from modulo_cola_pila import Pila
-
 # Controles:
 # WASD o flechas -> movimiento
 # h              -> pista (más que nada utiliza el algoritmo bracktrack para encontrar una solución y completar el nivel)
@@ -26,6 +22,10 @@ from modulo_cola_pila import Pila
 # documentación de gamelib
 # https://dessaya.github.io/python-gamelib/
 
+
+import soko
+import gamelib
+from modulo_cola_pila import Pila
 
 NORTE = (0 ,-1)
 SUR = (0, 1)
