@@ -1,10 +1,3 @@
-import PySimpleGUI
-import sort_by_field_mal as logic_code
-import time
-import winsound
-
-RELEASE_YEAR = 5
-
 # Permite ordenar una lista exportada de MyAnimeList en formato xml en base a:
 # - Cantidad aproximada de cuentas de usuarios que contiene el título
 # - La puntuación promedio del título (un promedio de la puntuación dada por distintos usuarios)
@@ -16,6 +9,15 @@ RELEASE_YEAR = 5
 
 # Dataset actualizado a la temporada de invierno de 2022 y generado usando:
 # https://github.com/Gumpy-Q/MALscrap-suite
+
+
+import PySimpleGUI
+import sort_by_field_mal as logic_code
+import time
+import winsound
+
+RELEASE_YEAR = 5
+
 
 
 AMOUNT_OF_EPISODES = 8
