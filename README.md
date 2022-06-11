@@ -1,2 +1,2 @@
 # cosas_hechas
-Cosas de la facu/cosas hechas por mi cuenta
+Cosas de la facu/hechas por mi cuenta
