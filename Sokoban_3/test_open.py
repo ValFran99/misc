@@ -1,0 +1,1 @@
+open("hola.txt", "r")
