@@ -1,0 +1,1 @@
+Procesa y calcula operaciones recibidas por un archivo de texto en formato normal y polaco
