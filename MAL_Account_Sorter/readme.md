@@ -1,3 +1,5 @@
+# Version vieja, para la nueva ver su repo individual
+
 Permite ordenar una lista exportada de MyAnimeList en formato xml en base a:
 - Cantidad aproximada de cuentas de usuarios que contiene el título
 - La puntuación promedio del título (un promedio de la puntuación dada por distintos usuarios)
